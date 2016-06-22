@@ -1,0 +1,28 @@
+{
+  "name": "teste-uol",
+  "homepage": "https://github.com/uolhost/test-frontEnd",
+  "authors": [
+    "Wellington <wesoares90@gmail.com>"
+  ],
+  "description": "Teste de avaliação para a vaga de Front-end na Uol host",
+  "main": "",
+  "keywords": [
+    "teste",
+    "uol"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "bootstrap": "^3.3.6",
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12"
+  }
+}
